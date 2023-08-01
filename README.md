@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">Technologies I've Worked With:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<img src="[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)" >
 
 
 
