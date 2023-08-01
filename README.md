@@ -8,7 +8,9 @@
 </p>
 
 <h3 align="center">Technologies I've Worked With:</h3>
+```md
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+```
 <!--
 **thomasly13/thomasly13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
